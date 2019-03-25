@@ -1,0 +1,20 @@
+12 200
+K T T T T K L L B B L L
+K H M M H K H M K K M H
+L B k M B L T T T T T T
+K T T T T K L L B B L L
+K H M M H L k M K K M H
+L B k M B L T T T T T L
+
+
+
+
+
+
+
+
+
+
+
+
+
